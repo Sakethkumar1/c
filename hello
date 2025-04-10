@@ -1,0 +1,6 @@
+//starting..
+#include<studio.h>
+void main()
+{
+print("hello every one! welcome to ur studio");
+}
